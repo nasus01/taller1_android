@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller1_Andriod</string>
+    <string name="salary">Calcular Salario</string>
+    <string name="hour">ingresa la cantidad de horas</string>
+    <string name="value">ingresa el valor de la hora</string>
+    <string name="button">Calcular</string>
+
+</resources>
